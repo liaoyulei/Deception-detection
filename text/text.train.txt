@@ -1,0 +1,572 @@
+train_0001wav,no 
+train_0002wav,nineteen eighty nine December 
+train_0003wav,because I just explained what's I've explained everything that I did and I have still did not steal the exactly 
+train_0004wav,no 
+train_0005wav,I don't believe I am nervous 
+train_0006wav,may six nineteen ninety nine I do actually 
+train_0007wav,no 
+train_0008wav,now 
+train_0009wav,yes 
+train_0010wav,now 
+train_0011wav,and I saw a pretty normal day just went to class %HESITATION was by myself most of the day shopping for a birthday present saw my other friend while I was shopping for a birthday present man I just was alone at my house doing laundry needing hanging out 
+train_0012wav,now 
+train_0013wav,no 
+train_0014wav,want to because studied hard and Kantor study 
+train_0015wav,I around ten thirty that I come in early salts like ten minutes earlier 
+train_0016wav,yes 
+train_0017wav,yes 
+train_0018wav,yeah 
+train_0019wav,no 
+train_0020wav,yes 
+train_0021wav,yeah 
+train_0022wav,yeah 
+train_0023wav,so I think I've said so far is the truth 
+train_0024wav,no I'm not 
+train_0025wav,I'm I arrived I nine thirty 
+train_0026wav,three o'clock 
+train_0027wav,I this morning I woke up I showered and then I went to the doctor's office and I drove back here waited for my phone to charge to see what room I was going into and that's it numbing 
+train_0028wav,I'm not nervous 
+train_0029wav,yes 
+train_0030wav,one year 
+train_0031wav,of course I'm innocent why you talking about off course I am innocent 
+train_0032wav,no I didn't 
+train_0033wav,now 
+train_0034wav,I innocent because I didn't take an exam key 
+train_0035wav,now 
+train_0036wav,yes 
+train_0037wav,no 
+train_0038wav,its course 
+train_0039wav,because %HESITATION you ask me to think back and it takes a lot to think back you know so so what you're doing earlier in the day so I thought back can I give you the the best response 
+train_0040wav,not all 
+train_0041wav,now 
+train_0042wav,now 
+train_0043wav,three years 
+train_0044wav,no 
+train_0045wav,why were innocent because I didn't do it 
+train_0046wav,yeah 
+train_0047wav,twelve thirty 
+train_0048wav,I didn't steal anything you're trying to a kills me so that's why I am innocent 
+train_0049wav,teen years 
+train_0050wav,July fifteenth nineteen ninety three 
+train_0051wav,it went in and did a survey and I went up stairs and I came back down here now now I'm being interviewed 
+train_0052wav,yes 
+train_0053wav,I go to jail 
+train_0054wav,all okay so I and Michelle Smith and firstly I complete a survey about myself and dash and I took the elevator to the fourth floor and that I go to and my eyes department as try to %HESITATION help my professors to %HESITATION upgrade and anti virus software and then I came back to as the first floor that's what I did today 
+train_0055wav,no 
+train_0056wav,nineteen ninety one in June 
+train_0057wav,yes 
+train_0058wav,now 
+train_0059wav,I got to study a little anxious put my phone and my wallet into my backpack and I said the backpack on the table on the right side of the room I was then brought into a different room on the computer to answer questions it took about five minutes and I went back in the main room and had my %HESITATION thumb print scanned and then I talked with the person conducting the survey 
+train_0060wav,the 
+train_0061wav,now 
+train_0062wav,%HESITATION March nineteen ninety two 
+train_0063wav,no 
+train_0064wav,%HESITATION I didn't do anything wrong I don't know who stole the exam key I have no idea who stole it when it was stolen I would just told what I was suppose to do for the experiment and came here 
+train_0065wav,may twenty sixth nineteen eighty eight 
+train_0066wav,I don't feel nervous 
+train_0067wav,two thirty 
+train_0068wav,I am 
+train_0069wav,I'm fingerprinted a survey sign papers and I can hear 
+train_0070wav,two attitude PM 
+train_0071wav,%HESITATION 
+train_0072wav,I woke up feeling tired %HESITATION bike to campus because I was a little bit late got coffee on the way into class said through class a quiz at the end of class got more coffee after class bike back home a Mike back here and came right to this department for the research study 
+train_0073wav,I guess that I saw a there is a waiver form and I was feeling just fine death yes wondering what exactly the study was about I read about it and taking a survey I was okay with that there was I did take a fingerprint scan and boy scam which is fine by had no problems with that I I question what I was doing with the information on why I had to get the information and wasn't nervous or anything like that but didn't question it and then I when I went to get the information I because nobody really looked at him funny so I was kind of weird I don't know if they were expecting you're not but %HESITATION then other than that that was but it 
+train_0074wav,%HESITATION go down paper word but the guidelines went to back with the computer so the information came out to the front dusk Gimme Almelo gonna follow instructions to answer Ford floor inter office log on to a computer the dead the sire wrote down the information and came back down 
+train_0075wav,I'm not nervous just so awkward because I didn't do anything 
+train_0076wav,no 
+train_0077wav,no 
+train_0078wav,now 
+train_0079wav,yes 
+train_0080wav,now 
+train_0081wav,no I have not 
+train_0082wav,twenty two years 
+train_0083wav,I am I guess if it's their first offense then maybe they can be given a second chance 
+train_0084wav,being in front of a camera or multiple cameras and sensors 
+train_0085wav,%HESITATION I went up into an elevator it's the fourth floor and went to the better came back down %HESITATION I was feeling sign as with a couple other people on the elevator both ways up in them so back here 
+train_0086wav,absolutely 
+train_0087wav,a little bit 
+train_0088wav,one oh five 
+train_0089wav,yes 
+train_0090wav,went outside in or to the restroom and then came back in area 
+train_0091wav,I didn't steal anything I just help my professor to upgrade an anti virus program 
+train_0092wav,now 
+train_0093wav,because I didn't do it 
+train_0094wav,now 
+train_0095wav,own the moment I live in the study I %HESITATION women filled in some paperwork took a survey after the survey %HESITATION Britain did the %HESITATION fingerprint and a voice recognition %HESITATION I was then given in the world when asked to go upstairs and %HESITATION update some anti virus software and so I rode up the elevator went down to the in my ass department %HESITATION sat in the chair that I was instructed to do so stop there but in the flash drive like I was told took that flash drive out %HESITATION but then the bag said goodbye to everybody as I walked out and that was pretty much it and now I'm here 
+train_0096wav,they should be prosecuted 
+train_0097wav,no 
+train_0098wav,no 
+train_0099wav,yes 
+train_0100wav,room yeah 
+train_0101wav,not 
+train_0102wav,room because because I'm not the one who did it so course record from him 
+train_0103wav,yes they teach me a lot and I'm ready appreciate 
+train_0104wav,no 
+train_0105wav,not 
+train_0106wav,yeah 
+train_0107wav,yeah 
+train_0108wav,yes 
+train_0109wav,stressed out about school 
+train_0110wav,I am I think I would be proven innocent based on this interview %HESITATION because I was honest with my story before attending this experiment and because I am I why am innocent and so I believe that my I contact I believe my %HESITATION me sitting here is acting normal and I'm not guilty of anything so I've nothing to hide 
+train_0111wav,around one twenty five 
+train_0112wav,urge January thirteenth nineteen ninety two 
+train_0113wav,I don't know 
+train_0114wav,yeah 
+train_0115wav,not 
+train_0116wav,because the truth 
+train_0117wav,now 
+train_0118wav,no 
+train_0119wav,prosecuted appropriately 
+train_0120wav,or when I went to this room right now home I went upstairs by validator and walked by to haul waits it down okay arm truck track like coffee that's it 
+train_0121wav,I'm sick today saw 
+train_0122wav,six months 
+train_0123wav,no I do not 
+train_0124wav,I am now 
+train_0125wav,no 
+train_0126wav,now 
+train_0127wav,no 
+train_0128wav,no 
+train_0129wav,no 
+train_0130wav,no 
+train_0131wav,probably it's okay 
+train_0132wav,yeah 
+train_0133wav,June the sixth nineteen ninety three 
+train_0134wav,no 
+train_0135wav,November nineteen eighty 
+train_0136wav,no 
+train_0137wav,I guess that I am being us all these questions that I'm not but I'm not guilty 
+train_0138wav,no 
+train_0139wav,now 
+train_0140wav,because I just told you everything I did 
+train_0141wav,December twelfth nineteen ninety one 
+train_0142wav,now 
+train_0143wav,yeah 
+train_0144wav,I have three years 
+train_0145wav,I'm I'm just the hammer lessons and had lunch and then come here that's a 
+train_0146wav,because I did not steal the exam to go and do that 
+train_0147wav,because I didn't 
+train_0148wav,six eleven ninety two 
+train_0149wav,I don't know 
+train_0150wav,I am I wasn't feeling anything I just fixed a virus on a computer that's it 
+train_0151wav,no 
+train_0152wav,because I still let it I don't need it 
+train_0153wav,two years 
+train_0154wav,no 
+train_0155wav,not at all 
+train_0156wav,middle 
+train_0157wav,no 
+train_0158wav,and two years 
+train_0159wav,room Luzhin feeling anything goes just %HESITATION going to do the task no less to do got in the %HESITATION elevator rode up I didn't see anybody that I knew on the way out which is kind of surprising are usually run into somebody %HESITATION went down to the office %HESITATION conversed with the %HESITATION young lady behind the receptionist desk in the and did the tassels assigned to do and came back down 
+train_0160wav,no 
+train_0161wav,no 
+train_0162wav,it's hard to be interviewed because I feel like I'm on the spot 
+train_0163wav,no 
+train_0164wav,twenty one years 
+train_0165wav,I am talking to a screen 
+train_0166wav,yes 
+train_0167wav,others can be my fourth year 
+train_0168wav,so I walked into the room are presented my cat card on filled out a consent application for the study %HESITATION then they gave me they've pretty much made this damn I thought I'm %HESITATION no actually I went so they gave me an envelope with %HESITATION instructions in a pan that told me to get into the elevator are pressed the fourth floor wait till I was in the elevator read the instructions Ben are the instructions said to go to the and my ass reception area %HESITATION ands go to the back to the reception area got the laugh go to love computer sign in using a I am username and password %HESITATION I signed in using those knees names and passwords and then went to %HESITATION get the yeah information about the talks that were going on %HESITATION and those talks we're going to going on June twenty eighth two thousand thirteen %HESITATION on Friday %HESITATION and they were in the McClellan hall one twenty nine I saw I they told me to copy that down I copied it down then went straight down to the %HESITATION the room the first room McClellan one one nine and they had missed a month so I scanned my thumb print and as I say a few numbers to get words recordings and thumbprint and then %HESITATION and then I went I should I was before that was before that was before I before I went upstairs when I came back downstairs I went CD 
+train_0169wav,yeah absolutely 
+train_0170wav,nineteen ninety two and it may 
+train_0171wav,no 
+train_0172wav,just the premise of the the exam heard the you know the confrontation I've never had this sort of experience before %HESITATION you know so it's new to me and that's what makes me a little nervous 
+train_0173wav,a little bit 
+train_0174wav,to learn how fierce Mary 
+train_0175wav,not 
+train_0176wav,because I didn't do it 
+train_0177wav,no 
+train_0178wav,no 
+train_0179wav,I went to Starbucks to get coffee and then I walked to my class this morning an hour and that I had a second class right after the color and then I can write to the study 
+train_0180wav,now 
+train_0181wav,not 
+train_0182wav,no 
+train_0183wav,I'm not 
+train_0184wav,now 
+train_0185wav,no 
+train_0186wav,no 
+train_0187wav,because I have been honest throughout this interview and I am one hundred percent certain that I would not be found guilty of stealing the exam key 
+train_0188wav,house bone in October nineteen ninety two 
+train_0189wav,no 
+train_0190wav,not 
+train_0191wav,no I do not 
+train_0192wav,%HESITATION I I woke up at eight fifteen and a flustered because I slept through my class which we have examined and then is disappointed that I did not go to bed and wake up on time to get to the exam after staying up really late and setting and then I went to my computer and looked at the syllabus to make sure that I could still do a final make up exam to replace a great and then I relaxed for a little while and got ready for class went in my ass three of four sat through a lecture that was on the different maps of the Maya system rom the doctor Patten and then went to econ three hundred after walking between the classes with my brother and friend and Matt I am going to the U mark to get some coffee and then coming back to horrible and it's sat through econ three hundred and we went over an exam review and also last a city of demand and supply then read my bike home had lunch and it's did my Bible study and then quickly left some beyond time for the experience and then I went upstairs after answering a few questions and getting %HESITATION fingerprints and voice confirmation went to the in my last apartments got on the computer to look up a speaker series and came back down and was told I come into this room 
+train_0193wav,no it's Monday 
+train_0194wav,I have an interview on Friday for a career 
+train_0195wav,fail the exam 
+train_0196wav,no 
+train_0197wav,okay %HESITATION I feel very of the moment that can can mean to this beauty of this office I feel very a curious and then I just %HESITATION and signed up for the study sheet and this and fill out a survey and I want to know what worries going on worries this study is going to %HESITATION going to do and then I I I I am assigned assignment %HESITATION and assist in the game you know envelope and I go to the fourth floor and to see the envelope at that time when next and when I step one I guess Doug ever low and the stampede to them a aleve there I just want to open it because it's because I'm I'm not know what I'm going to do in this study and I'm not I don't know %HESITATION what's this started for so I didn't open it and %HESITATION I go to the fourth floor and the open that Simon and read it I was so very like not a very easy to do that be his I'm not there authorized person to do that so and god I just followed the stepped steps and then I came to the task I say you know there are low voice because I'm not a very consul to bow to doing that to do that and then I I get the commitment and then they show show them %HESITATION ID card then I I logged into the I try to use don't use use name and the passport to logging the computer on those from doc from desk calls for a MS department in that but that's by the time I tried many times it up I can knocking into that computer of CO I don't know who was my sailing is but I feel very like figure hacks I don't locking chip that computer so that's it 
+train_0198wav,yes 
+train_0199wav,one year 
+train_0200wav,I don't feel nervous at all 
+train_0201wav,%HESITATION I've been N 
+train_0202wav,now 
+train_0203wav,I would have done so far has I mean I theirs peel back me up explain why I was so and there's evidence outside of my own statements 
+train_0204wav,I should have I don't know 
+train_0205wav,I was 
+train_0206wav,no 
+train_0207wav,signed in and put my backpack down %HESITATION then I took a survey on the computer and I'm doing other survey visual survey 
+train_0208wav,yes 
+train_0209wav,I believe I did nothing wrong and was carrying out orders that were given to me 
+train_0210wav,no 
+train_0211wav,yes 
+train_0212wav,she punished 
+train_0213wav,I was not the person who took information so the pretty simple to determine that 
+train_0214wav,to get punished 
+train_0215wav,no 
+train_0216wav,now 
+train_0217wav,no 
+train_0218wav,nineteen ninety three may 
+train_0219wav,time I woke up this morning Carty for class I went to class at nine thirty met with the group after class for a project and then I went to get my friend a birthday present and Matt and I went home and had something to eat and did some laundry and hung out for a little bit and tell me and tell this when I came back to our 
+train_0220wav,yes 
+train_0221wav,yes 
+train_0222wav,no 
+train_0223wav,I am yes 
+train_0224wav,you know 
+train_0225wav,no 
+train_0226wav,and a I signed a few forms and I went into %HESITATION room six answer a few other questions on a computer I was asked to complete an assignment and then I came back and here I am 
+train_0227wav,no 
+train_0228wav,Icarus I your machine properly I'm okay 
+train_0229wav,twenty five years 
+train_0230wav,yes 
+train_0231wav,yes 
+train_0232wav,no 
+train_0233wav,yes 
+train_0234wav,I am 
+train_0235wav,I been named sheriff to over two years 
+train_0236wav,now 
+train_0237wav,yes 
+train_0238wav,one fifty six 
+train_0239wav,I think that'll show them in the same because I have nothing to hide and I might be nervous because I'm on the spot that I can actually commit the crime 
+train_0240wav,no 
+train_0241wav,no 
+train_0242wav,I don't know because I never think on that 
+train_0243wav,no 
+train_0244wav,%HESITATION not lately 
+train_0245wav,now 
+train_0246wav,for years 
+train_0247wav,now 
+train_0248wav,%HESITATION I was feeling just just doing what I was told on our two computer I was told the look of the am I a speaker series I signed and given a code those given to me I'm with the user name and password I wrote down the date time and where it was gonna be held the speaker series and that I took the elevator back down for one and went back on the floor one oh nine and came here 
+train_0249wav,he should not get credit for the test she get zero 
+train_0250wav,take out 
+train_0251wav,the lights in my face 
+train_0252wav,sure 
+train_0253wav,no probably not 
+train_0254wav,no 
+train_0255wav,arm issue get kicked out of school 
+train_0256wav,no 
+train_0257wav,twenty three years 
+train_0258wav,yes 
+train_0259wav,because I've never gotten trouble before and I wouldn't do that 
+train_0260wav,yes 
+train_0261wav,no 
+train_0262wav,her I heard Meyer previous professor %HESITATION say hello to me and dom I heard a student sitting down and start typing typing the %HESITATION laptop and I think I was kind of nice for my whole previous %HESITATION previous professor to say hello to me yeah check 
+train_0263wav,not really 
+train_0264wav,nope 
+train_0265wav,yes 
+train_0266wav,no 
+train_0267wav,no 
+train_0268wav,I didn't do anything wrong I went upstairs and there is no matter what their witnesses 
+train_0269wav,yes 
+train_0270wav,no 
+train_0271wav,now 
+train_0272wav,okay I came to the study I had to fill out a consent form I went into another room to fill out a survey a survey about what I had done earlier today and then I was given other instructions to come here 
+train_0273wav,yeah 
+train_0274wav,no 
+train_0275wav,no 
+train_0276wav,three years 
+train_0277wav,no 
+train_0278wav,yes 
+train_0279wav,I answered a few questions and I came in here to be interviewed 
+train_0280wav,yes 
+train_0281wav,no 
+train_0282wav,now 
+train_0283wav,I guess if I come off of it as nervous is just because this is an I situation I've never done before and I'm I'm not as comfortable with doing trying new things this is different 
+train_0284wav,not 
+train_0285wav,I do not 
+train_0286wav,walked in the room one on nine satin this new instructions signed papers went on to a computer answered more questions followed up by coming in here to be interviewed 
+train_0287wav,now 
+train_0288wav,December nineteen ninety three 
+train_0289wav,nine thirty 
+train_0290wav,no 
+train_0291wav,twelve fifty two 
+train_0292wav,no one into the wrong 
+train_0293wav,yes 
+train_0294wav,now 
+train_0295wav,just over three years 
+train_0296wav,I walked from my house Starbucks on university and I got coffee and then I came to class right after I got coffee and went right into my class and burger and I was in there from eight A and tell ten forty five and then I walked right to the study 
+train_0297wav,twelve thirty approximately 
+train_0298wav,yes 
+train_0299wav,no 
+train_0300wav,yes 
+train_0301wav,all my life twenty three years 
+train_0302wav,why not 
+train_0303wav,now 
+train_0304wav,now 
+train_0305wav,I do not 
+train_0306wav,no 
+train_0307wav,earn I saw some students there is a student who got on the elevator with me or at least a guy got on the elevator with me and he went to the fourth floor as well and there were some students that were %HESITATION I would assume students that were outside in the elevator lobby kind of area the fourth floor %HESITATION when I got there and then there were two women sitting at the main desk %HESITATION and MES office and I don't remember feeling anything abnormal just curious about this process 
+train_0308wav,maybe the pants 
+train_0309wav,they should be punished for violating your veins honor code 
+train_0310wav,yes 
+train_0311wav,no 
+train_0312wav,no 
+train_0313wav,because I've never been in this building before today and I have had to look at %HESITATION maps the other posted in order to find where I'm supposed to go 
+train_0314wav,nope 
+train_0315wav,I woke up at about ten thirty went to class at eleven o'clock economics class senator twelve fifteen after that I returned home for something to eat came back to campus at about one OO five to make it for the research study and that's it 
+train_0316wav,could be an honest 
+train_0317wav,no 
+train_0318wav,year %HESITATION here in nineteen ninety and out June 
+train_0319wav,now 
+train_0320wav,no 
+train_0321wav,no 
+train_0322wav,no 
+train_0323wav,no 
+train_0324wav,ten o'clock 
+train_0325wav,yes 
+train_0326wav,now 
+train_0327wav,no 
+train_0328wav,is that in there 
+train_0329wav,yes 
+train_0330wav,three years 
+train_0331wav,%HESITATION lived in Tucson unknowns younger for maybe two years and I move to Scottsdale 
+train_0332wav,%HESITATION money really see anything I just saw students couple students outside I was feeling okay I wasn't really feeling anxious or anything weird 
+train_0333wav,yes 
+train_0334wav,now 
+train_0335wav,no 
+train_0336wav,I went into a room and filled out a survey and then was given directions 
+train_0337wav,no 
+train_0338wav,no 
+train_0339wav,yes 
+train_0340wav,now 
+train_0341wav,no not really 
+train_0342wav,no 
+train_0343wav,if I didn't 
+train_0344wav,I was born September twenty ninth nineteen ninety one 
+train_0345wav,%HESITATION when I went to the experiment and I was a little bit anxious because you know I don't know what they were going to give me %HESITATION United noticed doing so you know when they handed me the consent form that may be a little bit more anxious because I felt like you know some serious stuff going on %HESITATION but as I read what was going on didn't seem all that complicated to me I knew that I hadn't done anything wrong so so I signed the application form %HESITATION you know they give me the envelope they gave me clear instructions I was in the elevator I read the instructions I stepped out of the elevator headed into the reception area there was these two ladies one asking for identification I showed her my check card I sat down at the computer %HESITATION typed in the two of the username and the password are using a being Amyas guests password being just one two three %HESITATION then I went into the PDF file that %HESITATION was about the talks that were gonna happen on Friday June twenty eighth two thousand thirteen in McLean home one twenty nine and I copy that down %HESITATION they have a few questions the bottom page side answered and then I left I've seen bench you and I once the elevator went down to McLuhan won only nine seats on the first floor I went in %HESITATION %HESITATION girl took mild look my pen and said okay user security officer we're going to swim interview Sonya there 
+train_0346wav,no 
+train_0347wav,yes 
+train_0348wav,yes 
+train_0349wav,first I got here seller around around nine forty five after that I went to the the fun of LA where they were given out donuts and coffee for them the lawyer and then after that %HESITATION I came into the room as the experiment and I was told to go to them I us and department and fill out a couple things from the computer and I did that in about a back to the room and now I'm having this interview 
+train_0350wav,yes 
+train_0351wav,my thirty 
+train_0352wav,now 
+train_0353wav,I don't know 
+train_0354wav,no 
+train_0355wav,now 
+train_0356wav,I didn't steal the exam keys so once the results of been brought and it will show that I didn't steal the exam keys 
+train_0357wav,now 
+train_0358wav,I don't think that I was nervous and I know I didn't do it 
+train_0359wav,no 
+train_0360wav,no 
+train_0361wav,no 
+train_0362wav,no 
+train_0363wav,I should be expelled 
+train_0364wav,now 
+train_0365wav,noun 
+train_0366wav,%HESITATION because I didn't I and I've I've I've just met with my progress process and she saw me I don't have anything else and esque I was walking down a hallway Air France alright so no 
+train_0367wav,I signed a disclosure with my name signature and time I put my bag into a a can a locker in the room I took a survey and then I was led up to give a L an envelope and it was told to go to the fourth floor of them last apartment I went in the and last apartment high divorce told me on that piece of paper and then I came back here and I'm taking this tell us now 
+train_0368wav,turning to 
+train_0369wav,yes 
+train_0370wav,no 
+train_0371wav,yes 
+train_0372wav,no 
+train_0373wav,yes 
+train_0374wav,one PM 
+train_0375wav,the car is everything will come out later and I am innocent 
+train_0376wav,maybe depends 
+train_0377wav,yes 
+train_0378wav,now 
+train_0379wav,now 
+train_0380wav,yes 
+train_0381wav,yes 
+train_0382wav,okay kos I stabbed him to that a that's a department office the people are stringent there and %HESITATION nods know what I'm doing dare 
+train_0383wav,okay as I was walking through al aire I wasn't quite sure what to expect I arrived at room one oh nine and I wasn't sure if I was was to go inside or not because I arrived early I walked in the dusk lady asked if I was here to participate for the study and I said yes and I showed her my identification and then I she collected my backpack and I took my cat card out and she locked up into the drawer and told me she would be sitting there the entire time so nothing would happen to it %HESITATION as that time I was feeling like I wasn't sure what was gonna go on in the study and so then she gave me the paperwork that described and was a consent form for the study size I was reading through it I was a little concerned %HESITATION just because I wasn't sure what or how long the study would be in what I would be doing I signed this sign the consent form fill it out returned it back to her and then afterwards I went into the other room she escorted me to develop the survey by then I wasn't feeling anxious I finish the survey and I came back to the room with her and then she'd told me to %HESITATION again my thumb Brent and then spell out %HESITATION so you do a voice sample and then she gave me the directions to do the and go to the I my ass department and after she gave me the directions I wasn't sure what I was %HESITATION if I was gonna do it correctly because I %HESITATION wasn't sure I would understand what we was going on but I got to the elevator read that letter and I %HESITATION proceeded to fall under the directions and when I got to the MAS department and there were two people in the room the receptionist and some other student and I wasn't quite sure they knew what I was doing but I followed the rules anyways and %HESITATION I went onto the computer log Dan %HESITATION everything was normal and then after I finished my eyes assigned task I returned back to here and that's where I gave her the envelope and then now I am here doing the experiment 
+train_0384wav,nothing settle on a coffee 
+train_0385wav,because I'm an honest person and I did not steal this exam key 
+train_0386wav,now 
+train_0387wav,may nineteen ninety 
+train_0388wav,no 
+train_0389wav,now 
+train_0390wav,no 
+train_0391wav,I'm not 
+train_0392wav,no 
+train_0393wav,no 
+train_0394wav,they should get in trouble 
+train_0395wav,no 
+train_0396wav,yes 
+train_0397wav,I think when all the evidence is and it's going to show that I was not the person responsible for stealing %HESITATION information 
+train_0398wav,because it is the truth 
+train_0399wav,then you don't believe me 
+train_0400wav,not 
+train_0401wav,I don't 
+train_0402wav,no 
+train_0403wav,I they should fail a class 
+train_0404wav,I came to the experiment I did a survey that asked me a couple questions that came in here I went upstairs kind of wandered around eller came back downstairs and now I'm being interviewed 
+train_0405wav,%HESITATION perhaps once 
+train_0406wav,my whole life 
+train_0407wav,no 
+train_0408wav,I am innocent I do not still good password codes were exams 
+train_0409wav,now 
+train_0410wav,no 
+train_0411wav,I think that after explaining everything that I've done %HESITATION and not to providing satisfactory answers arm along with eyewitness accounts I've been you will definitely see that I'm not guilty and anyway the investigations tap someone else since I'm not the one did 
+train_0412wav,yes it will show 
+train_0413wav,gun nineteen ninety two June 
+train_0414wav,no 
+train_0415wav,yes 
+train_0416wav,they should be punished 
+train_0417wav,Muna 
+train_0418wav,no 
+train_0419wav,yes 
+train_0420wav,no 
+train_0421wav,it costs an honest person 
+train_0422wav,they should be punished 
+train_0423wav,no 
+train_0424wav,now 
+train_0425wav,yeah 
+train_0426wav,no 
+train_0427wav,no but it still is empty instill anyway 
+train_0428wav,not 
+train_0429wav,yes 
+train_0430wav,whom do you I came into the department I was asked to fill my foreman few names of my name on a few forms to give our consent about the study and it's purposes I then was asked to fill out a few questions and and the computer Jason to that other room I was in and then I was asked to go out and doing the same intense around in the building when I came back and here I am 
+train_0431wav,yes 
+train_0432wav,I don't know I'm not in a position 
+train_0433wav,your mom's a year is one nine nine OO mounds is June 
+train_0434wav,no 
+train_0435wav,no 
+train_0436wav,no 
+train_0437wav,three years 
+train_0438wav,no 
+train_0439wav,probably not now 
+train_0440wav,not 
+train_0441wav,my backpack and I and I cabinet and filled out a questionnaire and I consent form and so the information on myself and then when it's the last department installed I anti virus software and then came back down here and I'm in this interview 
+train_0442wav,now 
+train_0443wav,yes 
+train_0444wav,three years 
+train_0445wav,no 
+train_0446wav,yes 
+train_0447wav,because I just told you what I did 
+train_0448wav,round three fifteen 
+train_0449wav,I just how my professor to upgrade and anti virus software I didn't steal anything 
+train_0450wav,yes 
+train_0451wav,been expelled 
+train_0452wav,no I don't think so 
+train_0453wav,no 
+train_0454wav,yes 
+train_0455wav,yes 
+train_0456wav,I just I had two lessons then I had lunch I maybe %HESITATION okay he I know my son denounce and then come here two o'clock 
+train_0457wav,I was talking to the exact the experimental person then follow the instructions on what I was supposed to do 
+train_0458wav,now 
+train_0459wav,it's not for me to decide 
+train_0460wav,I got here at two thirty 
+train_0461wav,nineteen ninety one October 
+train_0462wav,woke up took a shower got dressed drove to school and one to an adviser meeting and then walked over to our 
+train_0463wav,no 
+train_0464wav,because I'm being honest I didn't steal anything 
+train_0465wav,now 
+train_0466wav,when I got here I talks with %HESITATION woman at the desk who had me sign me waiver form and then I did a pre senere saying and then I went back out and talk to the woman again and then she gave me an envelope and told me to get in the elevator and go to the fourth floor where I could read what was in the envelope which then told me to go to the I'm ass office and get on the computer you there and look at the speaker series information and as soon as I was done with that I closed out the computer and came back down them I have ever came back down to the first floor of McClellan to I'm turning my paper to the woman at the desk who then told me to come and talk to you 
+train_0467wav,now 
+train_0468wav,I didn't steal anything so I'm innocent 
+train_0469wav,no 
+train_0470wav,came into the office spoke with the guy at the front desk Amy the saga online thing read it signed it winter back log onto a computer and %HESITATION so the more information in fact the front desk give me an envelope clear follow instructions so I went to to the elevator relative for floor log onto computer they got the flyer %HESITATION came back down the elevator gave the envelope to demand from the US and Cuban cider 
+train_0471wav,August ninety one 
+train_0472wav,in yeah 
+train_0473wav,now 
+train_0474wav,three twenty 
+train_0475wav,or you can hurry proved so they are good 
+train_0476wav,of course of conduct 
+train_0477wav,no 
+train_0478wav,I was a little late night I hear so little Maris my coming in and so make sure that I filled out everything pretty quickly and truthfully and I and then in my task in installed antivirus software and hello trouble logging and that figure it out and then I came back down here 
+train_0479wav,%HESITATION and should the room I signed a waiver I walked into the room to take a survey I completed the survey and was given instructions and a piece of paper to leave and go upstairs to the elevator I was instructed to read the paper once I got in the elevator I read the instructions and walk to the procrit room which is the and my ass department so walked in there there's a computer in the back right of the room I sat down at that someone asked me for my ID and I signed in and I logged into the computer with a given password and username and right off the information that was on a file that was instructed to read off noted some information down and return back to the study room and now here 
+train_0480wav,yes I do 
+train_0481wav,no 
+train_0482wav,I too lies on the air now 
+train_0483wav,now 
+train_0484wav,not 
+train_0485wav,no 
+train_0486wav,no 
+train_0487wav,we now 
+train_0488wav,yes I do 
+train_0489wav,no 
+train_0490wav,probably 
+train_0491wav,now 
+train_0492wav,now 
+train_0493wav,no 
+train_0494wav,yes 
+train_0495wav,no 
+train_0496wav,now 
+train_0497wav,why shouldn't you believe me 
+train_0498wav,I did not commit the crime so that's what this should reflect 
+train_0499wav,it depends 
+train_0500wav,maybe depends 
+train_0501wav,no 
+train_0502wav,now 
+train_0503wav,absolutely 
+train_0504wav,now 
+train_0505wav,yeah 
+train_0506wav,I am not 
+train_0507wav,I feel out a sign up for that but a study and a them sale laws some survey on the computer and it doesn't the one of the assistants game via okay but ends a lot and the law says a it has might suck assignment today then I took the evidence low goat took and took the elevator to the fourth floor then I saw the assignment and I followed the guide and go to the %HESITATION mais all from Basque and now try to use to un partners at trial used up all user then the passport %HESITATION dome on the same machine it %HESITATION but I cannot log into that computer so I came back and one of those assistant a asked me to do was a game and now a search I go to the fourth floor again to the from the US code also mais a department and the fine the computer but I tried just a many times but I still do logging so I came back 
+train_0508wav,yes 
+train_0509wav,I guess when and I'm not that nervous but when I ask somebody something and they tell me an answer I assume it's the truth and so the fact that they say I didn't steal anything I would hope you would believe me on that 
+train_0510wav,nine 
+train_0511wav,because I'm telling the truth 
+train_0512wav,yes 
+train_0513wav,yes 
+train_0514wav,no 
+train_0515wav,no 
+train_0516wav,didn't Muller nemesis part out Kong frown I'm not a native English speaker because I'm I want to speaking English I knew to this thing king and the like %HESITATION and also I just myself and seen this room I of talking about this time little nervous about that I don't remember it 
+train_0517wav,now 
+train_0518wav,I woke up after sleeping in from my first class and missing an exam the likely there is a final that can replace that grade and then I went to other classes and read my by count at some lunch department Bible study and ride my bike here 
+train_0519wav,or have exams coming out of so yeah I'm sitting right here and I am not reviewing my exam 
+train_0520wav,I didn't steal anything so I would be in the Senate 
+train_0521wav,no 
+train_0522wav,nine twenty three 
+train_0523wav,yes 
+train_0524wav,yes 
+train_0525wav,the nine fourteen years 
+train_0526wav,I'm Neal find out that it wasn't me and not somebody else student so I'm obviously not worried about being guilty 
+train_0527wav,now 
+train_0528wav,okay I arrived at around three twenty went into room one on nine and then the desk lady took my backpack and we've put it in the locker drawer and put up all my things away then she had me get my cat card out to identify me and then we filled out paperwork where I read the study information and signed that off and then after I signed that she hired me go into another room to conduct another survey with demographic information and I've conducted that I filled out out and then after I filled out the survey I went back into the room with the desk lady and she gave me an envelope owner wait before that we we went she gave me an envelope with a paper and pen and my cock card and she told me to take the elevator to the fourth floor and when I'm in the elevator open the envelopes read the directions so I opened that and I followed the directions to go to the US department and I went on to the computer which was in the right back corner of the reception desk and I logged in using that and my ass guess username and the password guest one two three I would read the directions and it said to click on the speaker series and open that file after double clicking it I've recorded the date and time September twentieth %HESITATION in Wicklow and one twenty nine and then I close that and I looked at the desktop background and after that I logged out of the computer and then I exited the I my US department got back into the elevator and then return to this room to be given further instruction 
+train_0529wav,expulsion 
+train_0530wav,because I'm an honest person 
+train_0531wav,nothing lack of sleep 
+train_0532wav,never 
+train_0533wav,because I don't do that and the I will not do that 
+train_0534wav,ten thirty 
+train_0535wav,yeah 
+train_0536wav,yes because I'm an honest person I don't still 
+train_0537wav,should be punished accordingly 
+train_0538wav,now 
+train_0539wav,wow clock 
+train_0540wav,ten thirty 
+train_0541wav,no 
+train_0542wav,yes 
+train_0543wav,expelled from school 
+train_0544wav,nineteen eighty five August 
+train_0545wav,September nineteen nineteen ninety one 
+train_0546wav,I have no idea 
+train_0547wav,no 
+train_0548wav,not 
+train_0549wav,no 
+train_0550wav,now 
+train_0551wav,probably 
+train_0552wav,yes 
+train_0553wav,no 
+train_0554wav,and this is my fourth year solace like since two thousand tan so it's like three years each time 
+train_0555wav,no 
+train_0556wav,they should be punished 
+train_0557wav,arm I've never done this before such little Hon comment I guess 
+train_0558wav,yes 
+train_0559wav,yes 
+train_0560wav,ten o'clock 
+train_0561wav,she punished 
+train_0562wav,yes 
+train_0563wav,I believe so yes 
+train_0564wav,no I don't 
+train_0565wav,no 
+train_0566wav,I what I saw and heard I saw no will people around the UN islands contacting their experiment like not all students and teachers and professors and how life and when I ran into to MI S department the people around me seems innocence and they seemed like day now on nothing about diss experiment and I just feel good about it yeah 
+train_0567wav,yes 
+train_0568wav,March twenty sixth nineteen ninety one 
+train_0569wav,may nineteen eighty nine 
+train_0570wav,now 
+train_0571wav,one PM 
+train_0572wav,%HESITATION wiggle room 

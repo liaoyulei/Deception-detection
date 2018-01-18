@@ -1,0 +1,486 @@
+devel_0001.wav,yes 
+devel_0002.wav,no 
+devel_0003.wav,yes 
+devel_0004.wav,no 
+devel_0005.wav,I'm tissue get potash based on the university policies 
+devel_0006.wav,%HESITATION in mourning 
+devel_0007.wav,I look up at the. took a shower got ready. made some breakfast took my dog out. came to class from nine to ten forty five. went to lunch and came here 
+devel_0008.wav,now 
+devel_0009.wav,November nineteen ninety one 
+devel_0010.wav,%HESITATION his should be punished. and the. it hitched 
+devel_0011.wav,because it is still a 
+devel_0012.wav,now 
+devel_0013.wav,no 
+devel_0014.wav,I woke up this morning I had a bagel I came. %HESITATION too dealer college of management. building. and I took two summer classes. and my eyes close and. econ class. and I I felt totally normal as other days 
+devel_0015.wav,now 
+devel_0016.wav,no I am not 
+devel_0017.wav,now 
+devel_0018.wav,no 
+devel_0019.wav,now 
+devel_0020.wav,I woke up check my task my text messages and email takes a mild fit shower made breakfast and go to school 
+devel_0021.wav,no 
+devel_0022.wav,because I was able to tell you everything that I've done 
+devel_0023.wav,no 
+devel_0024.wav,now 
+devel_0025.wav,now 
+devel_0026.wav,I walked into the room and then I had to go fill out a questionnaire that asks a bunch things about myself and then I was given a task to do and then I completed that. and I felt okay about it 
+devel_0027.wav,no 
+devel_0028.wav,we got in trouble 
+devel_0029.wav,yes it was 
+devel_0030.wav,three years 
+devel_0031.wav,no 
+devel_0032.wav,because I just gave you detail of what I've done since I've been here 
+devel_0033.wav,now 
+devel_0034.wav,I believe I will be innocent because I haven't stolen anything 
+devel_0035.wav,one thirty 
+devel_0036.wav,yes 
+devel_0037.wav,I mean because I did that and there's no evidence of a dead 
+devel_0038.wav,yes 
+devel_0039.wav,%HESITATION I'm I'm not nervous right now 
+devel_0040.wav,now 
+devel_0041.wav,yes 
+devel_0042.wav,one twenty 
+devel_0043.wav,no 
+devel_0044.wav,October nineteen ninety one 
+devel_0045.wav,now 
+devel_0046.wav,now 
+devel_0047.wav,I think I felt a little rushed part of the study and then also it's a little cold in here 
+devel_0048.wav,now 
+devel_0049.wav,because I am honest 
+devel_0050.wav,no 
+devel_0051.wav,get punished 
+devel_0052.wav,now 
+devel_0053.wav,now 
+devel_0054.wav,yes 
+devel_0055.wav,no 
+devel_0056.wav,no 
+devel_0057.wav,I might have 
+devel_0058.wav,now 
+devel_0059.wav,yes 
+devel_0060.wav,well as a student here at the university Arizona. I I applied to be a part of a certain code of conduct and I follow that through as a junior. and %HESITATION somebody who's been around university longtime I know what's right and what's wrong 
+devel_0061.wav,now 
+devel_0062.wav,yeah 
+devel_0063.wav,I don't know 
+devel_0064.wav,now 
+devel_0065.wav,Tom idea how does. it makes minoris early and found %HESITATION interview. and it has a 
+devel_0066.wav,one 
+devel_0067.wav,I have class in a few minutes. I'm just hoping to get there on time 
+devel_0068.wav,not really 
+devel_0069.wav,yes 
+devel_0070.wav,December twenty eighth nineteen ninety three 
+devel_0071.wav,because sometimes use 
+devel_0072.wav,none. had I not this. I am super clay. a nervous person. when I don't know what to expect. and I was not expecting mouths 
+devel_0073.wav,nine 
+devel_0074.wav,I don't know 
+devel_0075.wav,twelve forty the five 
+devel_0076.wav,yes 
+devel_0077.wav,not 
+devel_0078.wav,three years 
+devel_0079.wav,no 
+devel_0080.wav,%HESITATION I did a little survey. and then I got an envelope and went to the fourth floor and onto the MAS department. and follow the instruction on the paper of the envelope. and. got some of the information about its flyer this event. and then came back down 
+devel_0081.wav,no 
+devel_0082.wav,%HESITATION. when I got to do the advice department I was asked to identify with my cat car. and after that I logged in with. T. ID and the password that was on the paper. and then. click the file. and got the information and wrote it down and then came back further research 
+devel_0083.wav,I a came and I sat down I signed some papers. I went into another room and it's. followed some directions on screen answered questions about. self. type the statement. %HESITATION. I went it's back into the main room. did a fingerprint scan read some numbers. took an envelope and went upstairs. follow the directions that were in the envelope. came back downstairs and then came here 
+devel_0084.wav,now 
+devel_0085.wav,now 
+devel_0086.wav,of four years 
+devel_0087.wav,you know 
+devel_0088.wav,yes 
+devel_0089.wav,two years 
+devel_0090.wav,now 
+devel_0091.wav,yes 
+devel_0092.wav,no 
+devel_0093.wav,yes 
+devel_0094.wav,yes 
+devel_0095.wav,now 
+devel_0096.wav,now 
+devel_0097.wav,yes 
+devel_0098.wav,no 
+devel_0099.wav,now 
+devel_0100.wav,yes 
+devel_0101.wav,now 
+devel_0102.wav,eleven fifteen 
+devel_0103.wav,I am innocent because I did not steal the exam key 
+devel_0104.wav,now 
+devel_0105.wav,my whole life 
+devel_0106.wav,no 
+devel_0107.wav,July at nineteen ninety two 
+devel_0108.wav,now 
+devel_0109.wav,I was born in may two thousand nineteen ninety one 
+devel_0110.wav,now 
+devel_0111.wav,think on the spot with questions 
+devel_0112.wav,now 
+devel_0113.wav,now 
+devel_0114.wav,twelve thirty 
+devel_0115.wav,now 
+devel_0116.wav,because I tell the truth 
+devel_0117.wav,no idea 
+devel_0118.wav,now 
+devel_0119.wav,now 
+devel_0120.wav,yes 
+devel_0121.wav,yes 
+devel_0122.wav,now 
+devel_0123.wav,yes 
+devel_0124.wav,October of nineteen ninety three 
+devel_0125.wav,now 
+devel_0126.wav,yes 
+devel_0127.wav,now 
+devel_0128.wav,my entire life 
+devel_0129.wav,on I don't know nothing 
+devel_0130.wav,no 
+devel_0131.wav,no 
+devel_0132.wav,now 
+devel_0133.wav,yes 
+devel_0134.wav,now 
+devel_0135.wav,%HESITATION I did a survey I came back into the room a fingerprint scan with of voice recording then took directions one upstairs logged into the computer using %HESITATION guest one two three. and then rode down information from a flyer for an upcoming events went back down and then entered the. security room 
+devel_0136.wav,no 
+devel_0137.wav,yes 
+devel_0138.wav,or one o'clock 
+devel_0139.wav,yes 
+devel_0140.wav,yes 
+devel_0141.wav,no 
+devel_0142.wav,well I don't know that there's any other conclusion that can be reached everything I've done %HESITATION within the building today of minor actions have been %HESITATION. served for the study have been those requested of me specifically by %HESITATION does serve part does a. staff who are putting on the study 
+devel_0143.wav,no 
+devel_0144.wav,no 
+devel_0145.wav,I read the directions are I took a survey. and then I read the directions and. in the elevator up to the fourth floor and came back to them 
+devel_0146.wav,now 
+devel_0147.wav,I don't know 
+devel_0148.wav,I. what Troyer Earl for so it survey. and then. it's a laptop computer doesn't work. so I have to win to the other room. and the. he asked me to do is a survey again and then said I come back to see him after I finish the survey and then he gave me an outlook am a little. and the %HESITATION. so the envelope was saying asked me to go to and my S. office for updating us some files that saw. and then I come back to see him 
+devel_0149.wav,no 
+devel_0150.wav,yeah never 
+devel_0151.wav,yes 
+devel_0152.wav,three years 
+devel_0153.wav,no 
+devel_0154.wav,I'm not nervous 
+devel_0155.wav,absolutely no 
+devel_0156.wav,no 
+devel_0157.wav,no 
+devel_0158.wav,December nineteen ninety three 
+devel_0159.wav,no 
+devel_0160.wav,no 
+devel_0161.wav,not at all 
+devel_0162.wav,some kind of punishment 
+devel_0163.wav,not 
+devel_0164.wav,arrested 
+devel_0165.wav,now 
+devel_0166.wav,no 
+devel_0167.wav,July tenth nineteen ninety three 
+devel_0168.wav,because I'm telling the truth 
+devel_0169.wav,now 
+devel_0170.wav,no 
+devel_0171.wav,yes 
+devel_0172.wav,now 
+devel_0173.wav,now 
+devel_0174.wav,yes 
+devel_0175.wav,I'm I didn't know what the city was about to I was nervous as to what it was about. I took a survey. and now I'm being questioned 
+devel_0176.wav,expelled from school 
+devel_0177.wav,%HESITATION I went unanswered class stands. and went out. to the US department and. was confused because I couldn't find it for us I can. and then I went and and Amanda actually music computer and then I went back down and. can you 
+devel_0178.wav,said very nineteen ninety two 
+devel_0179.wav,because I did have 
+devel_0180.wav,yes 
+devel_0181.wav,I didn't do it so I hope that the results will show that I didn't do it 
+devel_0182.wav,they should. loose the exam key 
+devel_0183.wav,I want some 
+devel_0184.wav,now 
+devel_0185.wav,and two years 
+devel_0186.wav,%HESITATION now 
+devel_0187.wav,now 
+devel_0188.wav,I wish that 
+devel_0189.wav,now 
+devel_0190.wav,now 
+devel_0191.wav,I mean they should be a. arm. suspended 
+devel_0192.wav,yeah 
+devel_0193.wav,yes 
+devel_0194.wav,I yes 
+devel_0196.wav,now 
+devel_0197.wav,no 
+devel_0198.wav,because I didn't steal it 
+devel_0199.wav,after I will call from my house I had to. two summer classes at the eller college. and I just came here 
+devel_0200.wav,I got up got dressed. I'm a widow work I stopped for breakfast I don't you know not. and then I went to work. and I did data collection. and I surf the internet 
+devel_0201.wav,yes 
+devel_0202.wav,before the study. %HESITATION. I mean I woke up. I had breakfast I checked my email. %HESITATION. made a phone call %HESITATION to accompany about an externship. %HESITATION studied a little bit for my finance exam and then I showed up for the study 
+devel_0203.wav,I mean they should be punished 
+devel_0204.wav,yes 
+devel_0205.wav,I started in room one oh nine hoses sure what I was doing. I went up to the fourth floor. went in and last apartment log into the computer as an I. S. guests. password yes one two three. retrieved some information. about a speaker series. that is going on on September twentieth. I wrote down some information. and I came back downstairs. when I was instructed to then come over here 
+devel_0206.wav,%HESITATION she get arrested 
+devel_0207.wav,now 
+devel_0208.wav,for ten years 
+devel_0209.wav,now 
+devel_0210.wav,no 
+devel_0211.wav,since. all US attorney ten 
+devel_0212.wav,no 
+devel_0213.wav,I went into the elevator on the fourth floor. I was told to read a piece of paper and I get me a set of instructions. %HESITATION went to the fourth floor. log on to a computer %HESITATION. open the PDF. look up the information wrote it down. %HESITATION. to get back down to the first floor. gave it. to the people on the first floor. and it's speaking with an officer now 
+devel_0214.wav,no 
+devel_0215.wav,yes 
+devel_0216.wav,now 
+devel_0217.wav,a little bit 
+devel_0218.wav,I arrived a little bit early for the study so I waited outside and. then once they came and got me %HESITATION. I gave them my. personal possessions and I went in and took a survey. and then I came back and provided a fingerprint and voice sample. and then I went. as instructed up to the and my ass office. and to retrieve the information that they requested a then returned to. I'm Michael aho when a nine. and. came here 
+devel_0219.wav,no 
+devel_0220.wav,that is untrue 
+devel_0221.wav,on to yours 
+devel_0222.wav,the US sent to the dean 
+devel_0223.wav,now 
+devel_0224.wav,now 
+devel_0225.wav,for years 
+devel_0226.wav,now 
+devel_0227.wav,no 
+devel_0228.wav,now 
+devel_0229.wav,now 
+devel_0230.wav,yes 
+devel_0231.wav,now 
+devel_0232.wav,now 
+devel_0233.wav,while I also. dropped off my backpack on. %HESITATION on a table in the room. and it didn't really know what to expect. so. I just did everything that I was told to I sold out or read the. information about the study %HESITATION. check it. %HESITATION boxes I was supposed to and. I signed. but the agreement anon what to the other room and. answered a few questions I'm on. the computer. and %HESITATION went back outside. and. I had my fingerprints Gant and my voice. %HESITATION recorded and that I was %HESITATION assigned a task. of going up to the fourth floor of the building. two Amyas department and logging onto the computer %HESITATION using an assigned password and login name. on and from there I was able to. %HESITATION. figure out. when the first speaker series of fun. will be. and %HESITATION answered a few questions. on a ship paper within an hour inside an envelope and went back downstairs and handed it to the gentleman at the front desk. and after that I was told to %HESITATION. go inside a door and speak with an officer. as you 
+devel_0234.wav,yes 
+devel_0235.wav,while I did not steal the answer key so. I am sure that. there will be enough of its stock. proves that I was not guilty 
+devel_0236.wav,I eleven eleven 
+devel_0237.wav,should be arrested 
+devel_0238.wav,I am innocent because I didn't steal any exam key 
+devel_0239.wav,not 
+devel_0240.wav,eleven twenty two 
+devel_0241.wav
+devel_0242.wav,now 
+devel_0243.wav,the vendor. nineteen ninety November ninth 
+devel_0244.wav,when I walked in the room and the man greeted me asking me to fill out you know consent form that house entered into another room. and had the agreed another few. because of conduct and then also entering the answers to a few questions that I was brought to this room for this interview 
+devel_0245.wav,N. I guess just being here. he's never been in trouble before saw. I don't know why it was on that somebody would. suspect that I did something wrong. I have never done anything wrong for 
+devel_0246.wav,noun 
+devel_0247.wav,no 
+devel_0248.wav,nineteen ninety to March 
+devel_0249.wav,I'm not 
+devel_0250.wav,yes 
+devel_0251.wav,%HESITATION. I was I can men. had a survey. and. I was called. called by a. by the persons in front est and they want to talk to me 
+devel_0252.wav,I tossed thirty 
+devel_0253.wav,now 
+devel_0254.wav,I don't have a reason to steal an exam Q. and. now I didn't do it 
+devel_0255.wav,now 
+devel_0256.wav,no 
+devel_0257.wav,now 
+devel_0258.wav,no 
+devel_0259.wav,no 
+devel_0260.wav,%HESITATION. I see went %HESITATION room for. %HESITATION survey. but the computer doesn't work. Zend the instructor sent me to another room. we take the survey. %HESITATION after finished though so I I went bank to see hem. and Haig Gimme at have a look. asked me to go to the office and my S. office to update some files that saw. and those that I come back to see him 
+devel_0261.wav,yes 
+devel_0262.wav,I'm not nervous 
+devel_0263.wav,yes 
+devel_0264.wav,I was feeling fine just following the directions exactly I also was asked his show my ID to two different people and I got upstairs use though last computer with the directions are given to me wrote down the information and then continued to hear 
+devel_0265.wav,probably my language skill I'm not so confidence about my. English skills 
+devel_0266.wav,now 
+devel_0267.wav,no 
+devel_0268.wav,girl I don't know I do and still it is up to it ups to guys totally 
+devel_0269.wav,now 
+devel_0270.wav,no 
+devel_0271.wav,no 
+devel_0272.wav,yes 
+devel_0273.wav,%HESITATION depends on their reason for stealing it but. they Polish and now 
+devel_0274.wav,nine fifty eight 
+devel_0275.wav,eleven a man 
+devel_0276.wav,since I'm in a sense I'm sure. %HESITATION you lace will figure out that %HESITATION I didn't steal any exam key. and I'm you lace will prove that I'm innocent 
+devel_0277.wav,no I do not 
+devel_0278.wav,they'll sell them innocent because I am innocent 
+devel_0279.wav,yeah definitely 
+devel_0280.wav,no 
+devel_0281.wav,at twelve o'clock 
+devel_0282.wav,I was feeling a little bit nervous about what I was supposed to be doing %HESITATION. but I was just asked to go completed task. and Simon's MAS information's office 
+devel_0283.wav,I did not 
+devel_0284.wav,I yes 
+devel_0285.wav,yes 
+devel_0286.wav,yes 
+devel_0287.wav,I had no part to do with the missing a key. I don't even know who did it or how it was done or where they took from 
+devel_0288.wav,about. seven months 
+devel_0289.wav,yes 
+devel_0290.wav,now 
+devel_0291.wav,now 
+devel_0292.wav,to go to school 
+devel_0293.wav,now 
+devel_0294.wav,neither they use it to pass. classes. and get better grades 
+devel_0295.wav,no 
+devel_0296.wav,%HESITATION hug him in this state building industry cook %HESITATION o'clock PM and then. and I go to our office and with some work. until now you come here. did the theme fail 
+devel_0297.wav,I do still aren't I was here taking a survey 
+devel_0298.wav,nope 
+devel_0299.wav,no 
+devel_0300.wav,yes 
+devel_0301.wav,%HESITATION one year 
+devel_0302.wav,they should get in trouble for it 
+devel_0303.wav,well I don't know of any particular reason why you should believe me other than %HESITATION the fact that I was following explicit instructions throughout all of mine. %HESITATION interactions with. %HESITATION Amyas with staff and %HESITATION in them a clone tall building clearing them lance office 
+devel_0304.wav,now 
+devel_0305.wav,now 
+devel_0306.wav,now 
+devel_0307.wav,that %HESITATION in an interrogation 
+devel_0308.wav,because I have no intentions of stealing anything 
+devel_0309.wav,they should be punished 
+devel_0310.wav,yes 
+devel_0311.wav,I didn't know what to expect and this interview 
+devel_0312.wav,I yes 
+devel_0313.wav,not not 
+devel_0314.wav,I don't know 
+devel_0315.wav,of nineteen it is out in January. a fittings 
+devel_0316.wav,eleven 
+devel_0317.wav,yes 
+devel_0318.wav,no 
+devel_0319.wav,now 
+devel_0320.wav,I woke up I eat breakfast made ads. and yogurt and I brush my teeth got dressed. I DO Starbucks. came to LR and made a work phone call 
+devel_0321.wav,now 
+devel_0322.wav,no 
+devel_0323.wav,eleven fifty eight 
+devel_0324.wav,yes 
+devel_0325.wav,yes 
+devel_0326.wav,now 
+devel_0327.wav,because I am an upstanding citizen and I would not do something like that. I 
+devel_0328.wav,now 
+devel_0329.wav,yes 
+devel_0330.wav,yes 
+devel_0331.wav,I got out of the room went up to the fourth level. went to the US department. log in to the computer in the last apartment. %HESITATION retrieved some information came back downstairs. well back to the room that I started in and now here 
+devel_0332.wav,no 
+devel_0333.wav,around one o'clock 
+devel_0334.wav,said be very nineteen ninety two 
+devel_0335.wav,no 
+devel_0336.wav,now 
+devel_0337.wav,now 
+devel_0338.wav,now 
+devel_0339.wav,yes 
+devel_0340.wav,may of nineteen ninety four 
+devel_0341.wav,twelve 
+devel_0342.wav,how 
+devel_0343.wav,when I arrived I was. quite curious about what was going on especially when I son of the participant %HESITATION head to the elevator and it's %HESITATION than one say. got my instructions to go upstairs and follow the directions %HESITATION I was a little bit. apprehensive I suppose as to what was expected and %HESITATION what I'd be doing after that 
+devel_0344.wav,now 
+devel_0345.wav,punishment 
+devel_0346.wav,I am innocent said the investigation should sell ominous and 
+devel_0347.wav,now 
+devel_0348.wav,come I came to the study and I was asked to take a survey and was given %HESITATION some packet with stuff in it and then I want to address to talk to the people there and I came back to the person and I'm 
+devel_0349.wav,up to you guys 
+devel_0350.wav,now 
+devel_0351.wav,no 
+devel_0352.wav,eleven thirty 
+devel_0353.wav,I came into the study and then I found out I questionnaire and then I did a task that was asked of me and then I came in here 
+devel_0354.wav,nineteen ninety one September 
+devel_0355.wav,yes 
+devel_0356.wav,no probably not 
+devel_0357.wav,December sixteenth nineteen ninety 
+devel_0358.wav,yes 
+devel_0359.wav,I came in they. can hysteria did a survey. and one of us. I'm. the survey I had to do a task. and. came back here 
+devel_0360.wav,how 
+devel_0361.wav,now 
+devel_0362.wav,now 
+devel_0363.wav,three years 
+devel_0364.wav,they shouldn't Dan expelled or suspended 
+devel_0365.wav,they should receive a failing grade in whatever course they're taking 
+devel_0366.wav,now 
+devel_0367.wav,now 
+devel_0368.wav,I didn't steal anything today or ever so I am confident that your results will reflect that 
+devel_0369.wav,because I'm not lying 
+devel_0370.wav,now 
+devel_0371.wav,yes 
+devel_0372.wav,because I am innocent 
+devel_0373.wav,yes 
+devel_0374.wav,I don't think being interviewed 
+devel_0375.wav,no 
+devel_0376.wav,yes 
+devel_0377.wav,this will be my fourth year 
+devel_0378.wav,because I'm telling the truth 
+devel_0379.wav,two years 
+devel_0380.wav,no 
+devel_0381.wav,January sixth nineteen ninety two 
+devel_0382.wav,not 
+devel_0383.wav,eleven thirty 
+devel_0384.wav,yes I think I'll be an S. at once you guys. investigate the situation 
+devel_0385.wav,no 
+devel_0386.wav,no 
+devel_0387.wav,yes I am innocent 
+devel_0388.wav,now 
+devel_0389.wav,no 
+devel_0390.wav,now 
+devel_0391.wav,now 
+devel_0392.wav,%HESITATION. well I doubt that that's actually the case but %HESITATION if it is probably simply the the fact of an unknown circumstance the interview setting. %HESITATION. the unknown 
+devel_0393.wav,because I didn't steal it and I'm sure you'll find the person who stole it when you do the investigation 
+devel_0394.wav,no 
+devel_0395.wav,now 
+devel_0396.wav,thirty years 
+devel_0397.wav,well I've been telling you the truth and. it's nothing to say that I did do it so. I should be seen as telling the truth 
+devel_0398.wav,no 
+devel_0399.wav,yes 
+devel_0400.wav,yes 
+devel_0401.wav,my whole life 
+devel_0402.wav,I went up to the fourth floor I logged onto a computer. I wrote down the date. and. place. of the speaker. speaker system I came down to the first floor. and met with an officer 
+devel_0403.wav,I am innocent there's don't answer  
+devel_0404.wav,first time doing an experiment 
+devel_0405.wav,I was feeling fine the whole time just normal. so I came in for the. experiment and then was guided towards the next room where I had to do a little survey on the computer. and then when I came back and I was given an envelope with directions. that I ride in the elevator. and as I was going up to the fourth floor and then once I landed on the fourth floor I got out and walked to the US department office and then I walked in. and that people at the desk said hi can we help you. and I said yeah I'm here too I've got information on that I am I a speaker series. and then I they'd guided me towards the appropriate computer and then I watched back there and then I the girl sitting next to the computer asked me for money ID so I gave it to wear and then signed in on the clipboard. and then I logged into the computer using the. log information given to me in the pocket. and got the required information and then. came back down 
+devel_0406.wav,now 
+devel_0407.wav,because. I'm telling the truth 
+devel_0408.wav,yes 
+devel_0409.wav,November nineteen ninety one 
+devel_0410.wav,now 
+devel_0411.wav,no 
+devel_0412.wav,now 
+devel_0413.wav,January ninth nineteen eighty nine 
+devel_0414.wav,now 
+devel_0415.wav,now 
+devel_0416.wav,I'm nineteen ninety one and December 
+devel_0417.wav,because I would have no reason to lie 
+devel_0418.wav,now 
+devel_0419.wav,no 
+devel_0420.wav,now 
+devel_0421.wav,%HESITATION I woke up %HESITATION a a practice. came to school. I showed up for the experiment. and they had me. Dubai thumbprint recognition and. %HESITATION they have me do some voice. like confirmations and they had me type in some. %HESITATION. I know some paragraphs. and then they gave me an envelope and told me to drop it off at the and my ass reception desk. and then come back 
+devel_0422.wav,now 
+devel_0423.wav,so maybe 
+devel_0424.wav,I went into a room and answered questions on a computer and then took the elevator to the fourth floor to the US department. and. %HESITATION learn the date and time of. on a speaker and then went back down to the room. one on nine and came here 
+devel_0425.wav,April nineteen ninety three 
+devel_0426.wav,%HESITATION just sitting here 
+devel_0427.wav,I opened the door tried to but it was locked so the guy opened it there was a little embarrassed I've walked into a chair was awesome various. trips. more embarrassment. %HESITATION. sat down. answer the questions. and it's. that's. pretty much as specific as it got 
+devel_0428.wav,I. eight years 
+devel_0429.wav,now 
+devel_0430.wav,one thirty PM 
+devel_0431.wav,yes 
+devel_0432.wav,no 
+devel_0433.wav,no 
+devel_0434.wav,yes 
+devel_0435.wav,no 
+devel_0436.wav,I don't know 
+devel_0437.wav,of a serious 
+devel_0438.wav,correct 
+devel_0439.wav,I woke up and came here I drove here 
+devel_0440.wav,yes 
+devel_0441.wav,I spoke to I. the man at the front desk. and I gave him or I filled out. %HESITATION I read the. description of the study and signed my name went to another room. and filled out a few questions on a computer went back. and %HESITATION. I had my fingerprint scans and. my voice recorder it. and that I had another task of going to the fourth floor of the. %HESITATION. alert of Michael of alert and went to that my US department. and. I logged onto the computer in the right corner. under the log in and password that was on the assignment sheet and I clicked on does speaker series flyer our file and fill out whatever questions were on. the. %HESITATION sheets and went back downstairs. to this room and. handed the man the sheets are the envelope and %HESITATION came into this room. and are. and I am in the middle of. I'll have an interview 
+devel_0442.wav,for years 
+devel_0443.wav,seven years 
+devel_0444.wav,now 
+devel_0445.wav,no 
+devel_0446.wav,yes 
+devel_0447.wav,now 
+devel_0448.wav,now 
+devel_0449.wav,now 
+devel_0450.wav,no 
+devel_0451.wav,now 
+devel_0452.wav,I I had to do stuff I'd go to the IRS. the department and then go on to the computer. and then I came here 
+devel_0453.wav,no 
+devel_0454.wav,now 
+devel_0455.wav,no 
+devel_0456.wav,yes 
+devel_0457.wav,yes 
+devel_0458.wav,yes because I didn't commit but that. that's 
+devel_0459.wav,not 
+devel_0460.wav,yes 
+devel_0461.wav,February nineteen ninety two 
+devel_0462.wav,no 
+devel_0463.wav,because I am innocent 
+devel_0464.wav,no 
+devel_0465.wav,I did a survey on the computer. after I signed a consent form. and then I left the room to use the restroom and now I'm here 
+devel_0466.wav,one 
+devel_0467.wav,they should probably be correctly punished with how the laws work 
+devel_0468.wav,now 
+devel_0469.wav,now 
+devel_0470.wav,I just participating the study had to fill out a questionnaire took awhile knows us to enter this room 
+devel_0471.wav,a little bit 
+devel_0472.wav,now 
+devel_0473.wav,yes 
+devel_0474.wav,September twenty eighth nineteen ninety two 
+devel_0475.wav,yes so I shot him and I said because I did not steal the exam key 
+devel_0476.wav,because I M. I I don't know anything about the stolen exam. key 
+devel_0477.wav,now 
+devel_0478.wav,I walked into the study and then I completed the survey on the computer. and then I came back into the little reception area and was given an envelope. and I exited this little room and then went up to the fourth floor on the elevator. I then walked into the I my ass department office. and walks towards the computers and signed in on a clipboard with my name and driver's license. and then I on the computer open a file wrote down some information and then left came back down and here I am 
+devel_0479.wav,now 
+devel_0480.wav,no 
+devel_0481.wav,no 
+devel_0482.wav,no 
+devel_0483.wav,%HESITATION. and her building and I go to the first egg on the bathroom. and follow of love while I can out tend to go into the adult he's. and do some work. and %HESITATION. %HESITATION. until now I. I am calling to %HESITATION. got into it 
+devel_0484.wav,now 
+devel_0485.wav,no 
+devel_0486.wav,yes 
+devel_0487.wav,yes 
